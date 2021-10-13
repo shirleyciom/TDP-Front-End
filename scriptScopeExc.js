@@ -9,6 +9,9 @@ console.log(j);
 }
 shirley();
 
+//answer - this should throw an IUncaught Reference error as shirley is not defined 
+
+
 // //QA Answer 
 // function submit() {
 //     let x = "foo";
